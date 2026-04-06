@@ -1,0 +1,5 @@
+{
+  "name": "Netflix Pulse: Live Trends & Insights",
+  "description": "A real-time dashboard for Netflix trending shows, movies, and anime. Features top 20 rankings, episode-wise ratings, regional popularity, and historical trends powered by Gemini 3.1 Flash and Google Search.",
+  "requestFramePermissions": []
+}

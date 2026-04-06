@@ -1,0 +1,41 @@
+{
+  "name": "netflix-pulse",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Live Netflix Market Intelligence & Trending Content Dashboard",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@google/genai": "^1.39.0",
+    "@tailwindcss/vite": "^4.2.2",
+    "@vitejs/plugin-react": "^6.0.1",
+    "autoprefixer": "^10.4.27",
+    "lucide-react": "^0.563.0",
+    "motion": "^12.38.0",
+    "postcss": "^8.5.8",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "recharts": "^3.7.0",
+    "tailwindcss": "^4.2.2",
+    "typescript": "^6.0.2",
+    "vite": "^8.0.3"
+  },
+  "keywords": [
+    "analytics-engineering",
+    "dbt",
+    "bigquery",
+    "portfolio",
+    "data-engineering",
+    "gemini-api"
+  ],
+  "author": "Analytics Engineer",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3"
+  }
+}
